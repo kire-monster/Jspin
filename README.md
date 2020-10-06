@@ -1,0 +1,2 @@
+# Jspin
+Spinner de javascript
